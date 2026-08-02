@@ -5,17 +5,7 @@
 		{"id":"0681bcde41d0fb96","type":"file","file":"Topcit Tutor Obsidian/TOPCIT Tutor/ASSETS.md","x":-760,"y":60,"width":400,"height":400},
 		{"id":"9d0889c53f67d887","type":"file","file":"Topcit Tutor Obsidian/TOPCIT Tutor/Docs.md","x":-760,"y":-400,"width":400,"height":400},
 		{"id":"437611dfe164d408","type":"link","url":"https://www.youtube.com/watch?v=kJP45RqyXN8","x":-760,"y":560,"width":640,"height":360},
-		{"id":"c9fa36eaa22b3919","type":"link","url":"https://www.youtube.com/watch?v=ImrLbomFYA0","x":-760,"y":1000,"width":640,"height":360},
-		{
-			"id":"af5d4e35f9ac876e",
-			"type":"text",
-			"text":"asddsf",
-			"styleAttributes":{},
-			"x":-160,
-			"y":-164,
-			"width":260,
-			"height":80
-		}
+		{"id":"c9fa36eaa22b3919","type":"link","url":"https://www.youtube.com/watch?v=ImrLbomFYA0","x":-760,"y":1000,"width":640,"height":360}
 	],
 	"edges":[],
 	"metadata":{
