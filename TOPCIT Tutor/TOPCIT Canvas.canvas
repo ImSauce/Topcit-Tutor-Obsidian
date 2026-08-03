@@ -17,8 +17,36 @@
 				"textAlign":"center",
 				"shape":null
 			},
-			"x":-60,
+			"x":-40,
 			"y":610,
+			"width":1010,
+			"height":260,
+			"color":"2"
+		},
+		{
+			"id":"300351bffb263614",
+			"type":"text",
+			"text":"KARL NIGGA",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":0,
+			"y":920,
+			"width":1010,
+			"height":260,
+			"color":"2"
+		},
+		{
+			"id":"355eaf5cd20e96b9",
+			"type":"text",
+			"text":"KARL NIGGA",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":40,
+			"y":1280,
 			"width":1010,
 			"height":260,
 			"color":"2"
