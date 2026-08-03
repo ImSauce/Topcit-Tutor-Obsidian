@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"9127ff1f76ce57d8","type":"file","file":"light.png","x":-640,"y":-1300,"width":400,"height":400},
 		{"id":"6033f5b850b5d4c0","type":"file","file":"Topcit Tutor Obsidian/TOPCIT Tutor/media/topcit idea.png","x":-1760,"y":-880,"width":855,"height":1591},
 		{"id":"0304fe0dd8d78d25","type":"file","file":"Topcit Tutor Obsidian/TOPCIT Tutor/media/Clarika.png","x":-760,"y":-880,"width":400,"height":398},
 		{"id":"0681bcde41d0fb96","type":"file","file":"Topcit Tutor Obsidian/TOPCIT Tutor/ASSETS.md","x":-760,"y":60,"width":400,"height":400},
