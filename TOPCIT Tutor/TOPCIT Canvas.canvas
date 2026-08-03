@@ -10,20 +10,6 @@
 		{"id":"34a383dec6788504","type":"file","file":"Topcit Tutor Obsidian/TOPCIT Tutor/media/5GJrqOCoP-W-6ha5.mp4","x":-280,"y":0,"width":992,"height":560},
 		{"id":"e10e40c3300223ec","type":"file","file":"Topcit Tutor Obsidian/TOPCIT Tutor/media/6EfqeOzxHDa3Y7ZT.mp4","x":272,"y":-880,"width":796,"height":796},
 		{
-			"id":"9aae6bb28378a2dc",
-			"type":"text",
-			"text":"KARL NIGGA",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-40,
-			"y":610,
-			"width":1010,
-			"height":260,
-			"color":"2"
-		},
-		{
 			"id":"300351bffb263614",
 			"type":"text",
 			"text":"KARL NIGGA",
@@ -47,6 +33,62 @@
 			},
 			"x":40,
 			"y":1280,
+			"width":1010,
+			"height":260,
+			"color":"2"
+		},
+		{
+			"id":"9aae6bb28378a2dc",
+			"type":"text",
+			"text":"KARL NIGGA",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-40,
+			"y":610,
+			"width":1010,
+			"height":260,
+			"color":"2"
+		},
+		{
+			"id":"32fde09c56fc2a0b",
+			"type":"text",
+			"text":"KARL NIGGA",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":1010,
+			"y":560,
+			"width":1010,
+			"height":260,
+			"color":"2"
+		},
+		{
+			"id":"fcb58d41fb1dccbb",
+			"type":"text",
+			"text":"KARL NIGGA",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":1120,
+			"y":920,
+			"width":1010,
+			"height":260,
+			"color":"2"
+		},
+		{
+			"id":"93d839e478ef6e32",
+			"type":"text",
+			"text":"KARL NIGGA",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":1120,
+			"y":1360,
 			"width":1010,
 			"height":260,
 			"color":"2"
