@@ -17,7 +17,21 @@
 	},
 	"drawInCanvas":{
 		"version":2,
-		"strokes":[],
+		"strokes":[
+			{
+				"id":"stroke-mscos92m-kkp0tb",
+				"color":"#bccf27",
+				"width":30.238105569317106,
+				"hardness":100,
+				"opacity":99,
+				"handwriting":{"enabled":false,"thinning":0.5,"streamline":0.5,"smoothing":0.5,"taperStart":40.31747409242281,"taperEnd":40.31747409242281},
+				"points":[
+					{"x":1222.7783,"y":1415.2318},
+					{"x":1222.7883,"y":1415.2418}
+				],
+				"createdAt":1785728738542
+			}
+		],
 		"colorHistory":["#bccf27","#2d2e25","#2a2e25","#2e2525"]
 	}
 }
